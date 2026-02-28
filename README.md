@@ -1,130 +1,96 @@
 # Rayarte
-🖊️ Rayarte – Papelería Creativa
+# 🖊️ Rayarte – Papelería Creativa
 
-✨ Donde las ideas toman forma
+✨ Donde las ideas toman forma ✨
 
-📌 Descripción
+---
 
-Rayarte es una papelería moderna enfocada en ofrecer productos creativos, útiles escolares, artículos de oficina y detalles personalizados.
-Nuestro objetivo es brindar calidad, variedad y diseño en cada producto, inspirando creatividad en estudiantes, profesionales y emprendedores.
+## 📌 Descripción
 
-🎯 Misión
+**Rayarte** es una papelería moderna enfocada en ofrecer productos creativos, útiles escolares, artículos de oficina y detalles personalizados.  
 
-Ofrecer productos de papelería innovadores y accesibles que impulsen la creatividad y organización de nuestros clientes.
+Este proyecto representa el diseño y desarrollo del sistema de gestión para la papelería, permitiendo administrar inventario, ventas y proveedores de manera organizada y eficiente.
 
-🌟 Visión
+---
 
-Convertirnos en una papelería reconocida por nuestro estilo, calidad y excelente atención al cliente.
+## 🎯 Misión
 
-🛍️ Productos y Servicios
+Ofrecer productos de papelería innovadores y accesibles que impulsen la creatividad, organización y productividad de nuestros clientes.
 
-📒 Cuadernos personalizados
+## 🌟 Visión
 
-✏️ Útiles escolares
+Ser una papelería reconocida por su estilo creativo, calidad de productos y excelente atención al cliente.
 
-🖊️ Artículos de oficina
+---
 
-🎨 Material artístico
+## 🛍️ Productos y Servicios
 
-🎁 Regalos creativos
+- 📒 Cuadernos personalizados  
+- ✏️ Útiles escolares  
+- 🖊️ Artículos de oficina  
+- 🎨 Material artístico  
+- 🎁 Regalos creativos  
+- 🖨️ Impresiones y fotocopias  
+- 📦 Encargos personalizados  
 
-🖨️ Impresiones y fotocopias
+---
 
-📦 Encargos personalizados
+## 💻 Funcionalidades del Sistema
 
-💻 Utilidades del Sistema (Si es proyecto digital)
+- 📊 Gestión de inventario  
+- 🧾 Registro y control de ventas  
+- 👤 Gestión de usuarios (Administrador / Empleado)  
+- 📦 Administración de proveedores  
+- 📈 Reportes de ventas  
+- 🔔 Alertas de productos agotados  
 
-Este repositorio puede incluir:
+---
 
-📊 Sistema de gestión de inventario
+## 👥 Roles del Sistema
 
-🧾 Control de ventas
+### 🔑 Administrador
+- Crear, editar y eliminar productos  
+- Gestionar empleados  
+- Administrar proveedores  
+- Visualizar reportes  
+- Controlar inventario  
 
-👤 Gestión de usuarios (Administrador / Empleado)
+### 👨‍💼 Empleado
+- Registrar ventas  
+- Consultar inventario  
+- Actualizar productos  
+- Generar facturas  
 
-📦 Control de proveedores
+---
 
-📈 Reportes de ventas
+## 🛠️ Tecnologías Utilizadas
 
-🔔 Alertas de productos agotados
+- HTML5  
+- CSS3  
+- JavaScript  
+- Base de datos (MySQL)  
+- Backend (PHP / Node.js)  
 
-👥 Roles del Sistema
-🔑 Administrador
+---
 
-Gestionar productos
+## 🎨 Identidad Visual
 
-Gestionar empleados
+Colores principales del proyecto:
 
-Ver reportes
+- 💚 Verde menta  
+- 🌿 Verde salvia  
+- 🤍 Blanco  
+- 🩶 Gris claro  
 
-Controlar inventario
+Diseño limpio, organizado y moderno.
 
-Administrar proveedores
+---
 
-👨‍💼 Empleado
+## 🚀 Instalación y Uso
 
-Registrar ventas
-
-Consultar inventario
-
-Actualizar productos
-
-Generar facturas
-
-🛠️ Tecnologías (Puedes editar según lo que uses)
-
-HTML5
-
-CSS3
-
-JavaScript
-
-MySQL
-
-PHP / Node.js
-
-🎨 Identidad Visual
-
-Colores sugeridos (según tu gusto por tonos verdosos y pastel 💚):
-
-Verde menta
-
-Verde salvia
-
-Blanco
-
-Gris claro
-
-📸 Vista previa (Opcional)
-
-Aquí puedes agregar capturas de pantalla del sistema:
-
-![Inicio](ruta-imagen)
-![Inventario](ruta-imagen)
-![Ventas](ruta-imagen)
-🚀 Cómo usar el proyecto
-# Clonar repositorio
+```bash
+# Clonar el repositorio
 git clone https://github.com/tuusuario/rayarte.git
 
-# Entrar a la carpeta
+# Entrar en la carpeta del proyecto
 cd rayarte
-📞 Contacto
-
-📍 Ubicación: Colombia
-📧 Email: rayarte@email.com
-
-📱 WhatsApp: 300 000 0000
-
-💚 Rayarte – Diseña, crea y organiza
-
-Si quieres, puedo:
-
-🎨 Hacerlo más profesional y minimalista
-
-🌈 Adaptarlo a colores pastel específicos
-
-💻 Hacerlo más técnico tipo proyecto de software
-
-🏪 Enfocarlo más como negocio real
-
-✨ Diseñarlo más creativo y llamativo
