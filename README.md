@@ -1,4 +1,6 @@
 # Rayarte
+<img width="1536" height="1024" alt="Rayarte_logo" src="https://github.com/user-attachments/assets/965f6555-641e-48a7-9816-81edca93663b" />
+
 # 🖊️ Rayarte – Papelería Creativa
 
 ✨ Donde las ideas toman forma ✨
@@ -81,16 +83,3 @@ Colores principales del proyecto:
 - 🌿 Verde salvia  
 - 🤍 Blanco  
 - 🩶 Gris claro  
-
-Diseño limpio, organizado y moderno.
-
----
-
-## 🚀 Instalación y Uso
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tuusuario/rayarte.git
-
-# Entrar en la carpeta del proyecto
-cd rayarte
